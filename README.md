@@ -1,6 +1,6 @@
 # CitationsPrepr
-The repository was created for my future employers.
-This project shows using of regular expressions.
+The repository was created for my future employers.  
+This project shows using of regular expressions.  
 All valuable or confidential data has been deleted.
 
 There are three Jupyter Notebooks used for the pre-processing of citations for a scientific report.
