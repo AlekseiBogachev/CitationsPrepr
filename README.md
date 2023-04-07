@@ -1,4 +1,6 @@
 # CitationsPrepr
+**Project status:** completed
+
 This project shows using of regular expressions.  
 All valuable or confidential data has been deleted.
 
